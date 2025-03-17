@@ -12,5 +12,5 @@ pandas
 pymupdf
 chromadb
 #smtplib
-email
+#email
 
