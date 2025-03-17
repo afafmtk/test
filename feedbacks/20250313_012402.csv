@@ -1,0 +1,27 @@
+Question,Réponse,Valeur,Commentaire,Fichier Uploader,Sources
+"Quelles sont les obligations des prestataires de services numériques en matière de déclaration des incidents de sécurité à l'autorité nationale, et quels critères déterminent si un incident doit être déclaré ?"," Les prestataires de services numériques sont tenus de déclarer les incidents de sécurité à l'autorité nationale dans les cas où le traitement des données qu'ils gèrent présente des dangers manifestes pour le respect et la protection de la vie privée et des libertés et droits fondamentaux, comme précisé dans l'article 12 de la loi. Il est également nécessaire de déclarer préalablement dans les autres cas prévus à l'article 13 de la loi.
+
+   Les données concernées comprennent notamment :
+   - Des informations portant sur les infractions, condamnations ou mesures de sûreté, à l'exception de ceux mis en œuvre par les auxiliaires de justice ;
+   - Des données comportant le numéro de la carte d’identité nationale de la personne concernée ;
+   - L'interconnexion de fichiers relevant d'une ou plusieurs personnes morales gérant un service public et dont les finalités d'intérêt public sont différentes ou l'interconnexion de fichiers relevant d'autres personnes morales et dont les finalités principales sont différentes.
+
+   Les déclarations préalables comportent un engagement personnel du responsable du traitement, et l'État étant également responsable des dommages causés par les fautes de service de ses agents, une action en responsabilité n'a pas à être engagée contre un agent de l'Etat pris personnellement.
+
+   Les sanctions peuvent être appliquées si le traitement objet de la déclaration ou de l'autorisation porte atteinte à la sûreté ou à l'ordre public, comme précisé dans l'article 51 de la loi.",Positive,makayn ri l mercedes,,"data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:12:2, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:10:1, data\code+des+obligation.pdf:218:1, data\code+des+obligation.pdf:251:3, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:24:1"
+Comment les prestataires de services numériques évaluent-ils l'impact significatif des incidents sur la fourniture de leurs services pour déterminer s'ils doivent les déclarer à l'autorité nationale ?," Les prestataires de services numériques évaluent l'impact significatif des incidents sur la fourniture de leurs services en se référant aux caractéristiques suivantes :
+
+1. Enquête utile pour examiner les faits concernant les plaintes, si nécessaire avec l'aide d'un membre de la Commission nationale.
+2. Pouvoir d'ordonner ou de procéder aux modifications nécessaires pour une tenue loyale des données contenues dans le fichier.
+3. Pouvoir de verrouiller, effacer ou détruire les données et interdire provisoirement ou définitivement le traitement de données à caractère personnel.
+4. Notification aux tiers auxquels les données ont été communiquées de toute actualisation, rectification, effacement ou verrouillage effectué, si cela ne s'avère pas impossible.
+
+Les opérations de collecte ou de transmission des données doivent figurer toutes les caractéristiques suivantes : personnes concernées et les données ou les catégories de données s'y rapportant, l'origine de ces données ou les tiers ou les catégories de tiers auxquels ces données peuvent être communiquées et les mesures à prendre pour assurer la sécurité du traitement. Il est soumis à l'avis préalable de la Commission nationale.
+
+Si le traitement des données présente des dangers manifestes pour le respect et la protection de la vie privée, la Commission nationale peut décider de soumettre ledit traitement au régime d'autorisation préalable.",Positive,moneyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy,,"data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:18:2, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:12:2, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:7:2, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:3:3, data\code+des+obligation.pdf:119:2"
+"Quelles sont les actions entreprises par les agents de l'autorité nationale en cas d'attaque informatique ciblant les systèmes d'information critiques, et quel est leur objectif principal ?"," Les agents de l'autorité nationale en cas d'attaque informatique ciblant les systèmes d'information critiques disposent de deux principaux pouvoirs :
+
+1. Le pouvoir d'investigation et d'enquête, qui leur permet d'accéder aux données faisant l'objet de traitement, d'examiner les locaux où le traitement est effectué, de recueillir toutes les informations nécessaires pour remplir leurs fonctions de contrôle. Ils peuvent également ordonner que soient communiqués tous les documents leur permettant d'examiner les faits.
+2. Si la Commission nationale juge que le traitement envisagé présente des dangers manifestes pour le respect et la protection de la vie privée et des libertés et droits fondamentaux, elle peut décider de soumettre ledit traitement au régime d'autorisation préalable.
+
+Le principal objectif de ces actions est de contrôler les traitements de données à caractère personnel en vue de garantir la protection des droits et libertés fondamentaux, ainsi que de lutter contre les attaques informatiques ciblant les systèmes d'information critiques.",Positive,NAN,loi_n-05.20.pdf,"data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:18:1, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:12:2, data\Loi 20-05 modifiant et complétant la Loi 17-95 SA..pdf:5:3, data\code+des+obligation.pdf:9:1, data\code+des+obligation.pdf:8:2"

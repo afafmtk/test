@@ -1,0 +1,14 @@
+Question,Réponse,Valeur,Commentaire,Fichier Uploader,Sources
+"Quelles sont les obligations des prestataires de services numériques en matière de déclaration des incidents de sécurité à l'autorité nationale, et quels critères déterminent si un incident doit être déclaré ?"," Les prestataires de services numériques ont l'obligation de déclarer des incidents de sécurité à l'autorité nationale dans les cas suivants :
+
+- Lorsque le traitement présente des dangers manifestes pour le respect et la protection de la vie privée et des libertés et droits fondamentaux. Cette déclaration préalable est obligatoire et comporte un engagement personnel du responsable du traitement.
+
+- Dans les autres cas, il est demandé une déclaration préalable.
+
+Le critère déterminant si un incident doit être déclaré est l'apparence de dangers manifestes pour le respect et la protection de la vie privée et des libertés et droits fondamentaux liées au traitement des données. Les types de données qui doivent figurer dans toutes les opérations de collecte ou de transmission des données sont les suivants :
+
+- Données portant sur les infractions, condamnations ou mesures de sûreté à l'exception de ceux mis en œuvre par les auxiliaires de justice.
+- Des données comportant le numéro de la carte d'identité nationale de la personne concernée.
+- L'interconnexion de fichiers relevant d'une ou de plusieurs personnes morales gérant un service public et dont les finalités d'intérêt public sont différentes ou l'interconnexion de fichiers relevant d'autres personnes morales et dont les finalités principales sont différentes.
+
+Si une déclaration préalable est nécessaire, elle doit contenir un engagement personnel détachable de la fonction, et l'État étant responsable des dommages causés par les fautes de service de ses agents, il ne peut être engagé en responsabilité en raison d'un tel délit contre un agent de l'Etat pris personnellement. Les administrations sont bornées dans leur activité par les limites juridiques visant à assurer aux administrés une certaine garantie de sécurité dans leurs relations juridiques avec les personnes de droit public.",Positive,NAN,,"data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:12:2, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:10:1, data\code+des+obligation.pdf:218:1, data\code+des+obligation.pdf:251:3, data\Loi-09-08_protection_des_lois_personnel-Fr.pdf:24:1"

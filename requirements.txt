@@ -1,0 +1,17 @@
+pypdf
+langchain
+langchain_community
+langchain_ollama
+langchain_chroma
+ollama
+tqdm
+argparse
+streamlit
+frontent
+streamlit_feedback
+pandas
+pymupdf
+chromadb
+smtplib
+email
+
