@@ -11,6 +11,6 @@ streamlit_feedback
 pandas
 pymupdf
 chromadb
-smtplib
+#smtplib
 email
 
