@@ -7,7 +7,6 @@ ollama
 tqdm
 argparse
 streamlit
-frontent
 streamlit_feedback
 pandas
 pymupdf
