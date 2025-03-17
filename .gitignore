@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
+<<<<<<< HEAD
 setup_env.sh 
 .env
+=======
+>>>>>>> acfb87e6037ed40e08f924aaf5e02f9a2a75aae2
 __pycache__/
 *.py[cod]
 *$py.class
@@ -169,5 +172,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+<<<<<<< HEAD
+=======
+# Ruff stuff:
+.ruff_cache/
+
+>>>>>>> acfb87e6037ed40e08f924aaf5e02f9a2a75aae2
 # PyPI configuration file
 .pypirc
