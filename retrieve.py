@@ -1,6 +1,6 @@
 from langchain_community.vectorstores import Chroma
 from langchain.prompts import ChatPromptTemplate
-from chromadb import PersistentClient
+#from chromadb import PersistentClient
 from chromadb import HttpClient
 from embedding import MyEmbeddingFunction
 from prompts import PROMPT_TEMPLATE
